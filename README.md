@@ -1,1 +1,1 @@
-# TroubleShouting DNS et MAIL
+# TroubleShooting DNS et MAIL
